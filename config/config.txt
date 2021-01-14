@@ -1,0 +1,5 @@
+4 10 15 1 20
+/home/jiahao/disk/klevel_file/data/inde/U400K4.dat
+/home/jiahao/disk/Projects/klevel/config/rtree.txt
+/home/jiahao/disk/Projects/klevel/config/IndexFile/klevel.idx
+

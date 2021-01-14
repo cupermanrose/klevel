@@ -1,0 +1,137 @@
+LEVEL: 1
+The region size of LEVEL 1: 138
+The utk size of LEVEL 1: 138
+Time Cost of LEVEL 1: 0.754353
+Average one_skyband size of LEVEL: 555
+Average spliting number of LEVEL: 138
+Average candidates of LEVEL: 2270
+Average verterices of region in LEVEL: 4
+subgraph_pruning in LEVEL: 0
+LEVEL: 2
+The region size of LEVEL 2: 1243
+The utk size of LEVEL 2: 230
+Time Cost of LEVEL 2: 41.295
+Average one_skyband size of LEVEL: 13.3623
+Average spliting number of LEVEL: 9.00725
+Average candidates of LEVEL: 79.529
+Average verterices of region in LEVEL: 15.1377
+subgraph_pruning in LEVEL: 0
+LEVEL: 3
+The region size of LEVEL 3: 4707
+The utk size of LEVEL 3: 303
+Time Cost of LEVEL 3: 5.38009
+Average one_skyband size of LEVEL: 7.20595
+Average spliting number of LEVEL: 3.78681
+Average candidates of LEVEL: 37.6002
+Average verterices of region in LEVEL: 10.2679
+subgraph_pruning in LEVEL: 0
+LEVEL: 4
+The region size of LEVEL 4: 11702
+The utk size of LEVEL 4: 379
+Time Cost of LEVEL 4: 5.29494
+Average one_skyband size of LEVEL: 5.61695
+Average spliting number of LEVEL: 2.48608
+Average candidates of LEVEL: 25.8438
+Average verterices of region in LEVEL: 9.02146
+subgraph_pruning in LEVEL: 0
+LEVEL: 5
+The region size of LEVEL 5: 23271
+The utk size of LEVEL 5: 450
+Time Cost of LEVEL 5: 8.52715
+Average one_skyband size of LEVEL: 4.89668
+Average spliting number of LEVEL: 1.98863
+Average candidates of LEVEL: 20.3821
+Average verterices of region in LEVEL: 8.57785
+subgraph_pruning in LEVEL: 0
+LEVEL: 6
+The region size of LEVEL 6: 40430
+The utk size of LEVEL 6: 499
+Time Cost of LEVEL 6: 15.8651
+Average one_skyband size of LEVEL: 4.50054
+Average spliting number of LEVEL: 1.73736
+Average candidates of LEVEL: 17.0249
+Average verterices of region in LEVEL: 8.39865
+subgraph_pruning in LEVEL: 0
+LEVEL: 7
+The region size of LEVEL 7: 63915
+The utk size of LEVEL 7: 547
+Time Cost of LEVEL 7: 29.591
+Average one_skyband size of LEVEL: 4.25837
+Average spliting number of LEVEL: 1.58088
+Average candidates of LEVEL: 14.6008
+Average verterices of region in LEVEL: 8.30638
+subgraph_pruning in LEVEL: 0
+LEVEL: 8
+The region size of LEVEL 8: 94330
+The utk size of LEVEL 8: 599
+Time Cost of LEVEL 8: 53.113
+Average one_skyband size of LEVEL: 4.08984
+Average spliting number of LEVEL: 1.47587
+Average candidates of LEVEL: 12.6748
+Average verterices of region in LEVEL: 8.25234
+subgraph_pruning in LEVEL: 0
+LEVEL: 9
+The region size of LEVEL 9: 132409
+The utk size of LEVEL 9: 644
+Time Cost of LEVEL 9: 96.8059
+Average one_skyband size of LEVEL: 3.97549
+Average spliting number of LEVEL: 1.40368
+Average candidates of LEVEL: 11.0322
+Average verterices of region in LEVEL: 8.22365
+subgraph_pruning in LEVEL: 0
+LEVEL: 10
+The region size of LEVEL 10: 179019
+The utk size of LEVEL 10: 695
+Time Cost of LEVEL 10: 191.415
+Average one_skyband size of LEVEL: 3.89668
+Average spliting number of LEVEL: 1.35202
+Average candidates of LEVEL: 9.55816
+Average verterices of region in LEVEL: 8.20977
+subgraph_pruning in LEVEL: 0
+LEVEL: 11
+The region size of LEVEL 11: 233931
+The utk size of LEVEL 11: 726
+Time Cost of LEVEL 11: 312.266
+Average one_skyband size of LEVEL: 3.82741
+Average spliting number of LEVEL: 1.30674
+Average candidates of LEVEL: 8.17989
+Average verterices of region in LEVEL: 8.18442
+subgraph_pruning in LEVEL: 0
+LEVEL: 12
+The region size of LEVEL 12: 297603
+The utk size of LEVEL 12: 776
+Time Cost of LEVEL 12: 591.015
+Average one_skyband size of LEVEL: 3.7719
+Average spliting number of LEVEL: 1.27218
+Average candidates of LEVEL: 6.90193
+Average verterices of region in LEVEL: 8.17763
+subgraph_pruning in LEVEL: 0
+LEVEL: 13
+The region size of LEVEL 13: 371265
+The utk size of LEVEL 13: 813
+Time Cost of LEVEL 13: 1056.38
+Average one_skyband size of LEVEL: 3.73261
+Average spliting number of LEVEL: 1.24752
+Average candidates of LEVEL: 5.70458
+Average verterices of region in LEVEL: 8.17696
+subgraph_pruning in LEVEL: 0
+LEVEL: 14
+The region size of LEVEL 14: 455300
+The utk size of LEVEL 14: 852
+Time Cost of LEVEL 14: 1668.93
+Average one_skyband size of LEVEL: 3.69593
+Average spliting number of LEVEL: 1.22635
+Average candidates of LEVEL: 4.58908
+Average verterices of region in LEVEL: 8.17308
+subgraph_pruning in LEVEL: 0
+LEVEL: 15
+The region size of LEVEL 15: 549678
+The utk size of LEVEL 15: 893
+Time Cost of LEVEL 15: 2642.36
+Average one_skyband size of LEVEL: 3.66302
+Average spliting number of LEVEL: 1.20729
+Average candidates of LEVEL: 3.66302
+Average verterices of region in LEVEL: 8.16605
+subgraph_pruning in LEVEL: 0
+total_region: 2458941
+Total Time Cost: 6738.64
